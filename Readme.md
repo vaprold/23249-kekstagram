@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Валерий Евдокимов](https://htmlacademy.ru/profile/vaprold).
-* Наставник: `Неизвестно`.
+* Наставник: `Инструктор Кекс`.
 
 ---
 
