@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Ксения Торкова](https://up.htmlacademy.ru/javascript/9/user/23249).
+* Студент: [Валерий Евдокимов](https://htmlacademy.ru/profile/vaprold).
 * Наставник: `Неизвестно`.
 
 ---
